@@ -1,4 +1,4 @@
-# ECON-130-FA22
+# ECON-130-FA23
 Economics 130 - Economics for Public Policy
 
 Instructor: Julien Lafortune
